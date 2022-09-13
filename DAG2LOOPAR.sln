@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAG2LOOPAR", "DAG2LOOPAR\DAG2LOOPAR.csproj", "{D7A41000-2325-45AF-9C2E-996DF8C1B866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A41000-2325-45AF-9C2E-996DF8C1B866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A41000-2325-45AF-9C2E-996DF8C1B866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A41000-2325-45AF-9C2E-996DF8C1B866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A41000-2325-45AF-9C2E-996DF8C1B866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4048B38-41F7-4DFD-B615-461452585270}
+	EndGlobalSection
+EndGlobal
